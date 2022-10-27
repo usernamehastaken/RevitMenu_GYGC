@@ -1,0 +1,8 @@
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\bin\Debug\RevitMenu_GYGC.dll
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\bin\Debug\RevitMenu_GYGC.pdb
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\obj\Debug\RevitMenu_GYGC.csprojAssemblyReference.cache
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\obj\Debug\RevitMenu_GYGC.csproj.CoreCompileInputs.cache
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\obj\Debug\RevitMenu_GYGC.dll
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\obj\Debug\RevitMenu_GYGC.pdb
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\obj\Debug\RevitMenu_GYGC.Properties.Resources.resources
+C:\Users\chenxinxin.TCDRILAN\source\repos\RevitMenu_GYGC\obj\Debug\RevitMenu_GYGC.csproj.GenerateResource.cache
